@@ -12,8 +12,8 @@ This project is a timer application developed using **Node.js** and **Electron**
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/rivki-beker/redemption
+   cd redemption
    ```
 
 2. **Install the dependencies:**
