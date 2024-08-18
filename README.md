@@ -31,7 +31,7 @@ This project is a timer application developed using **Node.js** and **Electron**
 To package the app as a standalone Windows executable, run:
 
 ```bash
-npx electron-packager . timer --platform=win32 --arch=x64 --out=dist --overwrite
+npx electron-packager . timer --platform=win32 --arch=x64 --out=dist
 ```
 
 ### Running the App
