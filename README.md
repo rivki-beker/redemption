@@ -65,10 +65,6 @@ To make changes or contribute to this project, follow these steps:
 3. **Test your changes** to ensure everything works as expected.
 4. **Submit a pull request** for review.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rivki-beker/redemption/issues) to see what you can work on.
